@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -50,3 +51,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+=======
+tasklist.bin
+todo
+>>>>>>> 24d18a7 (added gitignore)
